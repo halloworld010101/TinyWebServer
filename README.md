@@ -1,5 +1,3 @@
-Raw_version文档
-===============
 Linux下C++轻量级Web服务器.
 
 * 使用**线程池 + epoll(ET和LT均实现) + 模拟Proactor模式**的并发模型
@@ -13,11 +11,6 @@ Linux下C++轻量级Web服务器.
 * 服务器测试环境
 	* Ubuntu版本16.04
 	* MySQL版本5.7.29
-* 浏览器测试环境
-	* Windows、Linux均可
-	* Chrome
-	* FireFox
-	* 其他浏览器暂无测试
 
 * 测试前确认已安装MySQL数据库
 
